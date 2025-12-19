@@ -6,8 +6,8 @@ import {
 const Social = () => {
   const socialContent = [
     {
-      link: "https://github.com/velopace739",
-      icon: <FaGithub />,
+      link: "https://github.com/acedev0816",
+      icon: <FaGithub size={40} />,
       iconClass: "",
     },
     // {

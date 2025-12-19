@@ -6,16 +6,16 @@ const Service = () => {
 
   const serviceData = [
     {
-      icon: "/images/icons/icon-1.svg",
-      title: "System Design",
-      des: "I specialize in simplifying complex challenges through system design.",
+      icon: "/images/icons/icon-6.svg",
+      title: "Web Development",
+      des: "I have honed my skills to deliver high-quality web solutions that captivate users and meet business objectives.",
       color: "#D566FF",
       bg: "#FCF4FF",
     },
     {
-      icon: "/images/icons/icon-6.svg",
-      title: "Web Development",
-      des: "I have honed my skills to deliver high-quality web solutions that captivate users and meet business objectives.",
+      icon: "/images/icons/icon-7.svg",
+      title: "Blockchain Development",
+      des: "I specialize in building dApps on Ethereum, Bitcoin and Solana blockchain.",
       color: "#269FFF",
       bg: "#F3FAFF",
     },

@@ -23,25 +23,25 @@ const Address = () => {
     //   ),
     //   bg: "#FCF4FF",
     // },
-    {
-      id: "01",
-      icon: "/images/contact/skype.png",
-      title: "Skype ",
-      info: (
-        <>
-          <p>
-            <a
-              href="https://join.skype.com/invite/iL3DXJW1xKaF"
-              className="hover:text-[#FA5252] duration-300 transition text-gray-lite text-lg dark:text-[#A6A6A6]"
-              target="_blank"
-            >
-              live:.cid.449c3224015102e9
-            </a>
-          </p>
-        </>
-      ),
-      bg: "#FCF4FF",
-    },
+    // {
+    //   id: "01",
+    //   icon: "/images/contact/skype.png",
+    //   title: "Skype ",
+    //   info: (
+    //     <>
+    //       <p>
+    //         <a
+    //           href="https://join.skype.com/invite/iL3DXJW1xKaF"
+    //           className="hover:text-[#FA5252] duration-300 transition text-gray-lite text-lg dark:text-[#A6A6A6]"
+    //           target="_blank"
+    //         >
+    //           live:.cid.5c39ce982f95987a
+    //         </a>
+    //       </p>
+    //     </>
+    //   ),
+    //   bg: "#FCF4FF",
+    // },
     {
       id: "02",
       icon: "/images/contact/email 1.png",
@@ -50,10 +50,10 @@ const Address = () => {
         <>
           <p>
             <a
-              href="mailto:velopace7@gmail.com"
+              href="mailto:hu.work.pham@gmail.com "
               className="text-gray-lite text-lg dark:text-[#A6A6A6] "
             >
-              velopace7@gmail.com
+              hu.work.pham@gmail.com 
             </a>
           </p>
         </>
@@ -66,7 +66,7 @@ const Address = () => {
       title: "Address ",
       info: (
         <p className="text-gray-lite text-lg dark:text-[#A6A6A6] ">
-          Central, Hong Kong
+          Vietnam
         </p>
       ),
       bg: "#F2F4FF",

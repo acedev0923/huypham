@@ -53,14 +53,14 @@ const Header = () => {
       <div className="w-full flex justify-between h-full px-4">
 
         <a className="my-auto ">
-          <Image
+          {/* <Image
             className="h-[64px] lg:h-[64px] m-auto"
             width={214}
             height={64}
             priority
             src="/images/logo/logo.svg"
             alt="logo"
-          />
+          /> */}
         </a>
         <div className="flex items-center">
           <DarkMode />

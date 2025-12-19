@@ -1,8 +1,8 @@
 import Head from "next/head";
 
 const Seo = () => {
-  const title = "Chris Ma - Software Engineer Portfolio";
-  const description = "I'm Chris Ma and a Software Engineer";
+  const title = "Pham Van Huya - Full-Stack Developer Portfolio";
+  const description = "I'm Pham Van Huya and a Full-Stack Developer";
   const image = "/images/about/avatar.jpg";
   return (
     <Head>

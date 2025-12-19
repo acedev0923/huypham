@@ -10,7 +10,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Chris Ma
+            Pham Van Huy
           </a>
           .
         </p>

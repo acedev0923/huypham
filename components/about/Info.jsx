@@ -23,29 +23,29 @@ const Info = () => {
     //     </>
     //   ),
     // },
-    {
-      border: "border-b border-[#E3E3E3] dark:border-[#3D3A3A]",
-      icon: <FaSkype />,
-      iconColor: "text-[#00AFF0]",
-      name: "Skype",
-      meta: (
-        <>
-          <a
-            className="hover:text-[#FA5252] duration-300 transition"
-            href="https://join.skype.com/invite/iL3DXJW1xKaF"
-            target="_blank"
-          >
-            live:.cid.449c3224015102e9
-          </a>
-        </>
-      ),
-    },
+    // {
+    //   border: "border-b border-[#E3E3E3] dark:border-[#3D3A3A]",
+    //   icon: <FaSkype />,
+    //   iconColor: "text-[#00AFF0]",
+    //   name: "Skype",
+    //   meta: (
+    //     <>
+    //       <a
+    //         className="hover:text-[#FA5252] duration-300 transition"
+    //         href="https://join.skype.com/invite/iL3DXJW1xKaF"
+    //         target="_blank"
+    //       >
+    //         live:.cid.5c39ce982f95987a
+    //       </a>
+    //     </>
+    //   ),
+    // },
     {
       border: "border-b border-[#E3E3E3] dark:border-[#3D3A3A]",
       icon: <FaMapMarkerAlt />,
       iconColor: "text-[#6AB5B9] ",
       name: "Location",
-      meta: <>Central, Hong Kong</>,
+      meta: <>Vietnam</>,
     },
     {
       border: "border-b border-[#E3E3E3] dark:border-[#3D3A3A]",
@@ -57,9 +57,9 @@ const Info = () => {
           {" "}
           <a
             className="hover:text-[#FA5252] duration-300 transition"
-            href="mailto:velopace7@gmail.com"
+            href="mailto:hu.work.pham@gmail.com "
           >
-            velopace7@gmail.com
+            hu.work.pham@gmail.com 
           </a>
         </>
       ),

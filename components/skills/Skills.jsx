@@ -12,6 +12,26 @@ const Skills = () => {
           title: "Languages",
           icon: <MdOutlineLanguage />,
           items: [
+             {
+              img: "/images/frameworks/javascript.png",
+              alt: "javascript",
+              link: "https://en.wikipedia.org/wiki/JavaScript",
+            },
+            {
+              img: "/images/frameworks/typescript.png",
+              alt: "typescript",
+              link: "https://www.typescriptlang.org/",
+            },
+             {
+              img: "/images/frameworks/python.png",
+              alt: "python",
+              link: "https://www.python.org/",
+            },
+            {
+              img: "/images/frameworks/c-sharp.png",
+              alt: "c#",
+              link: "https://learn.microsoft.com/en-us/dotnet/csharp/",
+            },
             {
               img: "/images/frameworks/html.png",
               alt: "html",
@@ -22,21 +42,7 @@ const Skills = () => {
               alt: "css",
               link: "https://en.wikipedia.org/wiki/CSS",
             },
-            {
-              img: "/images/frameworks/javascript.png",
-              alt: "javascript",
-              link: "https://en.wikipedia.org/wiki/JavaScript",
-            },
-            {
-              img: "/images/frameworks/typescript.png",
-              alt: "typescript",
-              link: "https://www.typescriptlang.org/",
-            },
-            // {
-            //   img: "/images/frameworks/c-sharp.png",
-            //   alt: "c#",
-            //   link: "https://learn.microsoft.com/en-us/dotnet/csharp/",
-            // },
+           
             {
               img: "/images/frameworks/sql.png",
               alt: "sql",
@@ -47,11 +53,7 @@ const Skills = () => {
               alt: "sql",
               link: "https://graphql.org/",
             },
-            // {
-            //   img: "/images/frameworks/python.png",
-            //   alt: "python",
-            //   link: "https://www.python.org/",
-            // },
+           
           ],
           bg: "#FCF4FF",
         },
