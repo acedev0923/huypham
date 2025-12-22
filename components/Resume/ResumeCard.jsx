@@ -11,9 +11,9 @@ const ResumeCard = () => {
       items: [
         {
           id: 1,
-          date: "2016-2020",
+          date: "2013-2017",
           title: "Bachelor of Computer Science",
-          place: "Hanoi University of Science",
+          place: "Lingnan University",
           bg: "#FFF4F4",
         },
       ],
